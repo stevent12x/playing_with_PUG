@@ -1,3 +1,5 @@
+"use strict";
+
 const pug = require('pug');
 import $ from "jquery";
 
@@ -11,4 +13,6 @@ $(function () {
 //
 // console.log(compiledFunction);
 
-pug.compile('index.pug');
+const compiledFunction = pug.compile('index.pug');
+
+console.log(compiledFunction);
