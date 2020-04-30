@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "pug": "^2.0.4"
   }
 }
