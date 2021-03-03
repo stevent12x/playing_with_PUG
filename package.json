@@ -4,6 +4,6 @@
   "dependencies": {},
   "devDependencies": {
     "jquery": "^3.4.1",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
